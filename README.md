@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thien
 - 👀 I’m interested in Natural Language Processing and Graph Neural Network
-- 🌱 I’m currently learning Graph Neural Network for Recommendation System
+- 🌱 I’m currently learning Advanced Machine Learning in HSE University
 - 📫 How to reach me virusser1109@gmail.com
 
 <!---
